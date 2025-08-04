@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
