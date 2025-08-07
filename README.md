@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2689-rearranging-fruits) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3791-fruits-into-baskets-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
