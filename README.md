@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2689-rearranging-fruits) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3790-fruits-into-baskets-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2529-range-product-queries-of-powers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
