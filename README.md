@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0826-soup-servings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
