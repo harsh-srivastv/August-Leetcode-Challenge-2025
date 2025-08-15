@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
