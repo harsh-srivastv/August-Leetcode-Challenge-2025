@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2689-rearranging-fruits) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
