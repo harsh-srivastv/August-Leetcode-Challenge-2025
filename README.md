@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/harsh-srivastv/August-Leetcode-Challenge-2025/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Probability and Statistics
 |  |
 | ------- |
